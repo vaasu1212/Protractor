@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Protractor Typescript Demo" timestamp="2019-05-29T15:46:24" hostname="localhost" time="15.608" errors="0" tests="3" skipped="0" failures="0">
+  <testcase classname="Protractor Typescript Demo" name="title verifications" time="6.613">
+  </testcase>
+  <testcase classname="Protractor Typescript Demo" name="title verifications1" time="7.713">
+  </testcase>
+  <testcase classname="Protractor Typescript Demo" name="should add a Name as vasu" time="1.28">
+  </testcase>
+ </testsuite>
+</testsuites>
